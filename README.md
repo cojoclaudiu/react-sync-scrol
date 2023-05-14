@@ -1,4 +1,5 @@
 ## [react-scroll-sync](https://react-scroll-sync.netlify.app/)
+#### updated version of [react-sync-scroll](https://github.com/okonet/react-scroll-sync)
 
 ### [created with vite-ts-starter](https://github.com/cojoclaudiu/vite-ts-starter)
 
